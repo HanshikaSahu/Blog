@@ -38,7 +38,7 @@ const Navbar = () => {
         </div>
 
         <Link className="hidden md:flex gap-2 link">
-          <i class="fi fi-rr-file-edit"></i>
+          <i className="fi fi-rr-file-edit"></i>
           <p>Write</p>
         </Link>
 
